@@ -2,7 +2,9 @@
 Entrega final para el curso de Robótica Industrial.
 
 Inicialmente debe clonarse el repositorio en el espacio de trabajo
+
 $ roscd; cd ../src
+
 $ git clone https://github.com/IlFernandez/Proyecto-robotica
 
 Construir el proyecto con el catkin_make
