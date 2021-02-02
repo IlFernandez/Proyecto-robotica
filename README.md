@@ -29,5 +29,5 @@ $ rosrun ur5_gazebo send_joints5.py
 $ rosrun ur5_gazebo send_gripper.py
 
 Nota: 
-Ejecutar cada nodo y luego terminar la ejecución antes de ejecutar el siguiente (Ctrl + C).
-Darle Play al Gazebo.
+-Ejecutar cada nodo y luego terminar la ejecución antes de ejecutar el siguiente (Ctrl + C).
+-Darle Play al Gazebo.
