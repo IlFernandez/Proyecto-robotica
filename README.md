@@ -1,7 +1,7 @@
 # Proyecto-robotica
-Entrega final para el curso de Robótica Industrial.
+## Entrega final para el curso de Robótica Industrial.
 
-Inicialmente debe clonarse el repositorio en el espacio de trabajo
+## Inicialmente debe clonarse el repositorio en el espacio de trabajo
 
 $ roscd; cd ../src
 
